@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -19,8 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Benedict Jun Ma (馬軍). I am currently a PhD Candidate in Industrial and Manufacturing Systems Engineering, at [The University of Hong Kong](https://www.hku.hk), supervised by [Prof. Yong-Hong Kuo](https://www.imse.hku.hk/people/y-h-kuo) and [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/). Before this, I received my BEng degree in Automation from Northeast Forestry University (part of Project 211 & Double First-Class Construction), Harbin, China.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my PhD study, I had several academic visits outside of Hong Kong. I was a Visiting Doctoral Student at [Mines Paris, PSL University](https://www.minesparis.psl.eu), France, from August to December 2023. I spent one week taking the Course BEA 552 Rural Logistics at NHH.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
