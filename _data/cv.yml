@@ -40,12 +40,3 @@
       institution: Rotterdam School of Management, Erasmus University, Netherlands
       year: Oct, 2023
       description:
-
-- title: Honors and Awards
-  type: nested_list
-  contents:
-    - title: China National Scholarship
-          items:
-        - Year 2017
-        - Year 2018
-    - title: 2018 International Mathematical Contest in Modeling (MCM)
