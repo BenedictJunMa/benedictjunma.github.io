@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be a Postdoctoral Associate at CTL, MIT. :sparkles: :smile:
+I will be a Postdoctoral Associate at CTL, MIT, from July 2024. :sparkles: :smile:
