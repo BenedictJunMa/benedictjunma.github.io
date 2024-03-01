@@ -16,7 +16,7 @@
       year: 2024
       description:
             - Industrial and Manufacturing Systems Engineering
-            - Supervisor: Prof. Yong-Hong Kuo and Prof. George Q. Huang
+            - Supervised by Prof. Yong-Hong Kuo and Prof. George Q. Huang
     - title: BEng
       institution: Northeast Forestry University, Harbin, China
       year: 2020
@@ -27,10 +27,10 @@
   type: time_table
   contents:
     - title: Visiting PhD Student
-      institution: Mines Paris, PSL University
+      institution: Mines Paris, PSL University, Paris, France
       year: Aug - Oct, 2023
       description:
-            - Supervisor: Prof. Shenle Pan
+            - Supervised by Prof. Shenle Pan
     - title: Doctoral Student
       institution: Norwegian School of Economics, Bergen, Norway
       year: July, 2023
@@ -39,4 +39,4 @@
     - title: Visiting Research
       institution: Rotterdam School of Management, Erasmus University, Netherlands
       year: Oct, 2023
-      description:
+      description: Hosted by Prof. Rene de Koster
