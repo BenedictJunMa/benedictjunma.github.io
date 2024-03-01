@@ -9,10 +9,10 @@ profile:
   image: self-photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>bjma AT connect.hku.hk</p>
     <p>Room 8-25</p>
     <p>Haking Wong Building</p>
     <p>Pokfulam, Hong Kong</p>
+    <p>bjma AT connect.hku.hk</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
