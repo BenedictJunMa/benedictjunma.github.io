@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Benedict Jun Ma
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th January 1999
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: The University of Hong Kong, Hong Kong
+      year: 2024
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BEng
+      institution: Northeast Forestry University, Harbin, China
+      year: 2020
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Visiting PhD Student
+      institution: Mines Paris, PSL University
+      year: August - October, 2023
       description:
         - Description 1.
         - Description 2.
@@ -47,10 +47,6 @@
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
