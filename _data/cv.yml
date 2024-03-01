@@ -15,13 +15,13 @@
       institution: The University of Hong Kong, Hong Kong
       year: 2024
       description:
-          contents:
-            - Industrial and Manufacturing Systems Engineering.
+            - Industrial and Manufacturing Systems Engineering
+            - Supervisor: Prof. Yong-Hong Kuo and Prof. George Q. Huang
     - title: BEng
       institution: Northeast Forestry University, Harbin, China
       year: 2020
       description:
-        - Control Science and Engineering.
+        - Control Science and Engineering
 
 - title: Experience
   type: time_table
@@ -30,45 +30,22 @@
       institution: Mines Paris, PSL University
       year: Aug - Oct, 2023
       description:
-          contents:
-            - Prof. Shenle Pan.
-            - Sub-description 2.
+            - Supervisor: Prof. Shenle Pan
     - title: Doctoral Student
       institution: Norwegian School of Economics, Bergen, Norway
-      year: 2023
+      year: July, 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Course BEA 522 on Rural Logistics
+    - title: Visiting Research
+      institution: Rotterdam School of Management, Erasmus University, Netherlands
+      year: Oct, 2023
       description:
 
 - title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: China National Scholarship
+          items:
+        - Year 2017
+        - Year 2018
+    - title: 2018 International Mathematical Contest in Modeling (MCM)
