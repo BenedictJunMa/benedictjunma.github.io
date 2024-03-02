@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be a Postdoctoral Associate at CTL, MIT, from July 2024. :sparkles: :smile:
+Starting July 2024, I will be working as a Postdoctoral Associate at the Center for Transportation & Logistics (CTL), Massachusetts Institute of Technology (MIT). :sparkles: :smile:
