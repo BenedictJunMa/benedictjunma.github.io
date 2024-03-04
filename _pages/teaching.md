@@ -17,6 +17,4 @@ IMSE 7221 Warehousing and City Logistics (PG) [rating: 94.2/100] --- Fall 2022
 
 IMSE 7902 Project Management (PG) [rating: 91.7/100] --- Fall 2022 
 
-IMSE 7034 Operational Research (PG) --- Spring 2022
-
 IMSE 7015 Engineering Economics and Finance (PG) [rating: 86.4/100] --- Fall 2021
