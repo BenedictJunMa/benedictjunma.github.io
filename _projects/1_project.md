@@ -5,7 +5,7 @@ description: Automated Aeroponic Energy-Saving Plant Factory
 img: assets/img/Product.jpg
 importance: 1
 category: work
-#related_publications: false
+giscus_comments: true
 ---
 
 It is supported by National Innovation Training Program for Undergraduates (No. 201810225049), Ministry of Education, China.
