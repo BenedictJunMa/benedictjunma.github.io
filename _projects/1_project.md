@@ -1,16 +1,17 @@
 ---
 layout: page
-title: project 1
-description: Intelligent control of Fresnel lens spot in aeroponic energy-saving micro plant factory
+title: Year 2018-2019
+description: Automated Aeroponic Energy-Saving Plant Factory
 img: assets/img/Product.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+It is supported by National Innovation Training Program for Undergraduates (No. 201810225049), Ministry of Education, China.
+
+I am the Principal Investigator (PI) of this project, with funding of RMB 20,000.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
