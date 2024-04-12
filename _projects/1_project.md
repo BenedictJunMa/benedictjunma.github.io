@@ -2,7 +2,7 @@
 layout: page
 title: Year 2018-2019
 description: Automated Aeroponic Energy-Saving Plant Factory
-img: assets/img/Product.jpg
+img: assets/img/Product.jpeg
 importance: 1
 category: work
 ---
