@@ -75,7 +75,7 @@ linkedin_username: BenedictJunMa # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: 852-6686-4926 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: +85266864926 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-4028-6894 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: wechat_account.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Welcome to contact me through the above media.
+  Welcome to contact me via the above media.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
