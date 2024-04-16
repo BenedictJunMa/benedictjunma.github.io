@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Italy
@@ -9,4 +8,7 @@ category: fun
 ---
 
 I traveled to Roma, Florence, and Venice in Italy.
+
+
+
 
