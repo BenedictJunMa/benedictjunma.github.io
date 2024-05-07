@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! I have successfully completed my PhD oral examination. :sparkles:
+Congratulations! I have successfully completed my PhD oral examination. :smile:
 
