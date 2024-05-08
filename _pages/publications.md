@@ -1,8 +1,7 @@
----
 layout: page
 permalink: /publications/
 title: Publications
-description: # * denotes the corresponding author(s)
+description: publications .
 nav: true
 nav_order: 2
 ---
