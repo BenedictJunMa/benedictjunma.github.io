@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+\* denotes the corresponding author
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
