@@ -9,10 +9,10 @@ profile:
   image: DSCF1044.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MIT E40-376</p>
+    <p>MIT Office E40-376</p>
     <p>1 Amherst Street</p>
-    <p>Cambridge, 02139</p>
-    <p>Massachusetts, United States</p>
+    <p>Cambridge, MA</p>
+    <p>United States</p>
     <p>bjma AT mit.edu</p>
 
 news: true # includes a list of news items
