@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>MIT Office E40-376</p>
     <p>1 Amherst Street</p>
-    <p>Cambridge, MA</p>
+    <p>Cambridge, MA, 02139</p>
     <p>United States</p>
     <p>bjma AT mit.edu</p>
 
