@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am an instructor of the course "Foundations of Statistics", in the Orientation of MIT SCM Master's Program.
+I am an instructor of the course ``Foundations of Statistics" in the Orientation of MIT SCM Master's Program.
 
