@@ -18,7 +18,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page 
 ---
 
 Hi! My name is Benedict Jun Ma (馬軍). I am currently a Postdoctoral Associate at the [Center for Transportation & Logistics (CTL)](https://ctl.mit.edu/about/bio/benedict-jun-ma), Massachusetts Institute of Technology. I am also affiliated with the [MIT Supply Chain Management Master's Program](https://scm.mit.edu/people/benedict-jun-ma/) (#1 QS ranking worldwide) and the [MIT Digital Supply Chain Transformation](https://digitalsc.mit.edu).  
