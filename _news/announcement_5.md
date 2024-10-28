@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Congrats! One co-authored paper has been published in Neural Networks. 
+Congrats! One co-authored paper has been published in Neural Networks :satisfied:
 
 
