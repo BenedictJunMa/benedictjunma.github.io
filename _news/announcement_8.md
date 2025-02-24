@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Good News :tada: Our paper has been accepted for publication in MIT Sloan Management Review (FT50 Journal).
+:fire: My paper has been accepted for publication in MIT Sloan Management Review (FT50 Journal) :fire:
 
 
