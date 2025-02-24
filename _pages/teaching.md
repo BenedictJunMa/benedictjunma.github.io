@@ -7,7 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-I was a Teaching Assistant in several Postgraduate (PG) and Undergraduate (UG) courses, at the Department of Industrial and Manufacturing Systems Engineering (IMSE), The University of Hong Kong.
+
+
+** University of Hong Kong **
+
+During my PhD, I was a Teaching Assistant in several Postgraduate (PG) and Undergraduate (UG) courses at the Department of Data and Systems Engineering (formerly IMSE).
 
 IMSE 4135 Systems Integration (UG) [rating: 80.0/100] --- Full Year 2023
 
