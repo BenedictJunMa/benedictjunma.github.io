@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Year 2024-2025
-description: The Human-Robot Duet: AI-Driven Warehouses
+description: AI-driven human-robot collaboration in warehouses
 img: assets/img/Product.jpg
 importance: 1
 category: work
