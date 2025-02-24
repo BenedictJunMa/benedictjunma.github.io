@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+**Massachusetts Institute of Technology**
+
+I am an Instructor in the MIT SCM Master's Program.
+
+SCM. 250: Analytical Methods for Supply Chain Management --- Fall 2024
+
 
 
 **University of Hong Kong**
