@@ -7,8 +7,8 @@ importance: 1
 category: work
 ---
 
-It is supported by National Innovation Training Program for Undergraduates (No. 201810225049), Ministry of Education, China.
+It is supported by the National Innovation Training Program for Undergraduates (No. 201810225049), Ministry of Education, China.
 
-I am the Principal Investigator (PI) of this project, with funding of RMB 20,000.
+I am the Principal Investigator (PI) of this project, with RMB 20,000 in funding.
 
 For more information about this project, please click [Here](https://drive.google.com/drive/folders/1OSm_jmCfK6-YjAXfFeVjlwbbrlFG1SzT?usp=sharing).
