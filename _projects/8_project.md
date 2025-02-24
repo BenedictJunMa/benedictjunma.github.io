@@ -2,7 +2,7 @@
 layout: page
 title: Year 2024-2025
 description: AI-driven human-robot collaboration in warehouses
-img: assets/img/Product.jpg
+img: assets/img/warehouse.jpeg
 importance: 1
 category: work
 ---
