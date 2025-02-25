@@ -8,6 +8,15 @@
     - name: Languages
       value: English, Chinese
 
+- title: Employment
+  type: time_table
+  contents:
+    - title: Postdoctoral Associate
+      institution: Massachusetts Institute of Technology, US
+      year: 2024
+      description:
+            - Research, Teaching, Outreach
+
 - title: Education
   type: time_table
   contents:
