@@ -7,14 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-- **Massachusetts Institute of Technology**
+**Massachusetts Institute of Technology**
 
 I am an Instructor in the MIT SCM Master's Program.
 
   - SCM. 250: Analytical Methods for Supply Chain Management --- Fall 2024
 
 
-- **University of Hong Kong**
+**University of Hong Kong**
 
 During my PhD, I was a Teaching Assistant in several Postgraduate (PG) and Undergraduate (UG) courses at the Department of Data and Systems Engineering (formerly IMSE).
 
