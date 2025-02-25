@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Benedict Jun Ma (馬軍). I am currently a Postdoctoral Associate in the [Center for Transportation & Logistics (CTL)](https://ctl.mit.edu/about/bio/benedict-jun-ma), Massachusetts Institute of Technology. I am also affiliated with the [MIT Supply Chain Management Master's Program](https://scm.mit.edu/people/benedict-jun-ma/) and the [MIT Digital Supply Chain Transformation](https://digitalsc.mit.edu).  
+Hi! My name is Benedict Jun Ma (馬軍). I am currently a Postdoctoral Associate in the [Center for Transportation & Logistics (CTL)](https://ctl.mit.edu/about/bio/benedict-jun-ma), Massachusetts Institute of Technology. I am also affiliated with the [MIT Supply Chain Management](https://scm.mit.edu/people/benedict-jun-ma/) and the [MIT Digital Supply Chain Lab](https://digitalsc.mit.edu).  
 
 Prior to this, I earned my PhD in Industrial Engineering from The University of Hong Kong, supervised by [Prof. Yong-Hong Kuo](https://www.dase.hku.hk/people/y-h-kuo) and [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/). My research interests include logistics and supply chain management, warehouse operations and management, and computational intelligence with applications.
 
