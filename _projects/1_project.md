@@ -11,4 +11,6 @@ It is supported by the National Innovation Training Program for Undergraduates (
 
 I am the Principal Investigator (PI) of this project, with RMB 20,000 in funding.
 
-For more information about this project, please click [Here](https://drive.google.com/drive/folders/1OSm_jmCfK6-YjAXfFeVjlwbbrlFG1SzT?usp=sharing).
+For more information about this project, please click Here.
+
+#[Here](https://drive.google.com/drive/folders/1OSm_jmCfK6-YjAXfFeVjlwbbrlFG1SzT?usp=sharing).
