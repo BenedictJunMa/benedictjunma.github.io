@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Office E2-603</p>
     <p>No.1 Du Xue Rd</p>
-    <p>Nansha, Guangzhou</p>
+    <p>Guangzhou</p>
     <p>China</p>
     <p>bjma AT mit.edu</p>
 
