@@ -13,7 +13,7 @@ profile:
     <p>No.1 Du Xue Rd</p>
     <p>Guangzhou</p>
     <p>China</p>
-    <p>bjma AT mit.edu</p>
+    <p>junm AT hkust-gz.edu.cn</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
