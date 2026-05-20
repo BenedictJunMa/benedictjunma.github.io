@@ -6,6 +6,7 @@ description: Bridging AI, Robotics, and Analytics for Next-Generation Logistics 
 nav: true
 nav_order: 7
 
+<img src="img/lab_logo.pdf" alt="实验室Logo" width="300">
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
