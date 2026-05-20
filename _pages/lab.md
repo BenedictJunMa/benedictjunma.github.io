@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: iLSCA Lab
-description: Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab at HKUST(GZ)
+description: Bridging AI, Robotics, and Analytics for Next-Generation Logistics and Supply Chain.
 nav: true
 nav_order: 7
 
