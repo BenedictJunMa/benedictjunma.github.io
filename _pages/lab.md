@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: iLSCA Lab
-# description: members of the lab or group
+description: Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab at HKUST(GZ)
 nav: true
 nav_order: 7
 
