@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>INTR, Systems Hub, HKUST(GZ)</p>
-      <p>No. 1 Duxue Road, Nansha District</p>
+      <p>No. 1 Duxue Road</p>
       <p>Guangzhou, China, 511458</p>
   - align: left
     image: gaoborui.jpg
