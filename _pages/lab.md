@@ -24,7 +24,7 @@ profiles:
     more_info: >
       <p>Contact:</p>
       <p>junm@hkust-gz.edu.cn</p>
-  - align: right
+  - align: left
     image: gaoborui.jpg
     content: about_gaoborui.md
     image_circular: false # crops the image to make it circular
