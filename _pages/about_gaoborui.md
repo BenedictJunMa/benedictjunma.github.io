@@ -6,4 +6,4 @@ Borui GAO joined the team in January 2026. He obtained his Bachelor degree in To
 
 Representative publication:
 
-<u>Gao, B.</u>, Louise Lu, L., Zhangyuan, H., Bo, W., Ziran, J., & Benedict Jun, M. (Submitted 2026). Delineating Maritime Clusters: A Dynamic Density-Based Approach to Spatial Boundaries and Industry Structure (Under Review). *Transportation Research Part A: Policy and Practice*.
+<u>Gao, B.</u>, Louise Lu, L., Zhangyuan, H., Bo, W., Ziran, J., & Benedict Jun, M.. Delineating Maritime Clusters: A Dynamic Density-Based Approach to Spatial Boundaries and Industry Structure (Under Review). *Transp. Res. Part A*.
