@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /lab/
+permalink: /people/
 title: iLSCA Lab
 description: Bridging AI, Robotics, and Analytics for Next-Generation Logistics and Supply Chain.
 nav: true
