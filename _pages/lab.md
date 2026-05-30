@@ -57,4 +57,53 @@ profiles:
     more_info: >
       <p>Contact:</p>
       <p>To be updated</p>
+  - align: left
+    image: yinzecheng.jpg
+    content: about_yinzecheng.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: yanjinyi.jpg
+    content: about_yanjinyi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: gusongtao.jpg
+    content: about_gusongtao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: lisuming.jpg
+    content: about_lisuming.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: wangxiaoyun.jpg
+    content: about_wangxiaoyun.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: huangyin.jpg
+    content: about_huangyin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
+  - align: left
+    image: zhangyuyao.jpg
+    content: about_zhangyuyao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
 ---
