@@ -52,7 +52,7 @@ profiles:
       <p>To be updated</p>
   - align: left
     image: wangyi.jpg
-    content: about_wagyi.md
+    content: about_wangyi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
