@@ -43,4 +43,11 @@ profiles:
     more_info: >
       <p>Contact:</p>
       <p>To be updated</p>
+  - align: left
+    image: wangxincan.jpg
+    content: about_wangxincan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
 ---
