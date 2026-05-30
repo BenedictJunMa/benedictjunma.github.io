@@ -2,7 +2,7 @@ Mr. Borui GAO
 ---
 Ph.D. Student in INTR
 
-Borui Gao joined the team in January 2026. He obtained his Bachelor degree in Tongji University and Master degree in University College London. He also has a full-time working experience regarding urban transport planning and research in Shenzhen. He plans to futher his research journey in smart logistic and transport geography.
+Borui Gao joined the team in January 2026. He obtained his Bachelor degree in Tongji University and Master degree in University College London. He also has a full-time working experience regarding urban transport planning and research in Shenzhen. He plans to futher his research journey in smart logistics and transport geography.
 
 Representative publication:
 
