@@ -36,4 +36,11 @@ profiles:
     more_info: >
       <p>Contact:</p>
       <p>mwang299@connect.hkust-gz.edu.cn</p>
+  - align: left
+    image: frederick.jpg
+    content: about_frederick.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
 ---
