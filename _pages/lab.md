@@ -42,35 +42,35 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>khasanto.frederick@gmail.com</p>
   - align: left
     image: wangxincan.jpg
     content: about_wangxincan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>wangxchyu@gmail.com</p>
   - align: left
     image: wangyi.jpg
     content: about_wangyi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>yiwang@hkust-gz.edu.cn</p>
   - align: left
     image: yinzecheng.jpg
     content: about_yinzecheng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>yinzecheng@cuhk.edu.cn</p>
   - align: left
     image: yanjinyi.jpg
     content: about_yanjinyi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>jinyiyan@hkust-gz.com</p>
   - align: left
     image: gusongtao.jpg
     content: about_gusongtao.md
@@ -91,14 +91,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>xiaoyunwang@hkust-gz.edu.cn</p>
   - align: left
     image: huangyin.jpg
     content: about_huangyin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>yinhuang@hkust-gz.edu.cn</p>
   - align: left
     image: zhangyuyao.jpg
     content: about_zhangyuyao.md
