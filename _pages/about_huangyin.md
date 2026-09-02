@@ -1,7 +1,7 @@
 Mr. Yin HUANG
 ---
 
-Research Assistant
+Research Assistant (Jan 2026 - present)
 
 Yin Huang joined the team in January 2026. He obtained his Bachelor's degree and Master's degree from Southwest Jiaotong University. His research interests include intelligent transportation systems, spatiotemporal big data mining, and spatiotemporal LLMs.
 
