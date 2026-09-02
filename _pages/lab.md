@@ -79,13 +79,6 @@ profiles:
       #<p>Contact:</p>
       #<p>jinyiyan@hkust-gz.com</p>
   - align: left
-    image: gusongtao.jpg
-    content: about_gusongtao.md
-    image_circular: false # crops the image to make it circular
-    #more_info: >
-      #<p>Contact:</p>
-      #<p>To be updated</p>
-  - align: left
     image: lisuming.jpg
     content: about_lisuming.md
     image_circular: false # crops the image to make it circular
@@ -93,26 +86,12 @@ profiles:
       #<p>Contact:</p>
       #<p>To be updated</p>
   - align: left
-    image: wangxiaoyun.jpg
-    content: about_wangxiaoyun.md
-    image_circular: false # crops the image to make it circular
-    #more_info: >
-      #<p>Contact:</p>
-      #<p>xiaoyunwang@hkust-gz.edu.cn</p>
-  - align: left
     image: huangyin.jpg
     content: about_huangyin.md
     image_circular: false # crops the image to make it circular
     #more_info: >
       #<p>Contact:</p>
       #<p>yinhuang@hkust-gz.edu.cn</p>
-  - align: left
-    image: zhangyuyao.jpg
-    content: about_zhangyuyao.md
-    image_circular: false # crops the image to make it circular
-    #more_info: >
-      #<p>Contact:</p>
-      #<p>To be updated</p>
   - align: left
     image: leizhiwei.jpg
     content: about_leizhiwei.md
@@ -130,6 +109,27 @@ profiles:
   - align: left
     image: luiz.jpg
     content: about_luiz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>lfrl159@connect.hkust-gz.edu.cn</p>
+  - align: left
+    image: gusongtao.jpg
+    content: about_gusongtao.md
+    image_circular: false # crops the image to make it circular
+    #more_info: >
+      #<p>Contact:</p>
+      #<p>To be updated</p>
+  - align: left
+    image: wangxiaoyun.jpg
+    content: about_wangxiaoyun.md
+    image_circular: false # crops the image to make it circular
+    #more_info: >
+      #<p>Contact:</p>
+      #<p>xiaoyunwang@hkust-gz.edu.cn</p>
+  - align: left
+    image: zhangyuyao.jpg
+    content: about_zhangyuyao.md
     image_circular: false # crops the image to make it circular
     #more_info: >
       #<p>Contact:</p>
