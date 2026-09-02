@@ -42,14 +42,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>khasanto.frederick@gmail.com</p>
+      <p>fkhasanto632@connect.hkust-gz.edu.cn</p>
   - align: left
     image: wangxincan.jpg
     content: about_wangxincan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>wangxchyu@gmail.com</p>
+      <p>xwang125@connect.hkust-gz.edu.cn</p>
   - align: left
     image: wangyi.jpg
     content: about_wangyi.md
@@ -70,7 +70,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>To be updated</p>
+      <p>jxu748@connect.hkust-gz.edu.cn</p>
   - align: left
     image: yanjinyi.jpg
     content: about_yanjinyi.md
