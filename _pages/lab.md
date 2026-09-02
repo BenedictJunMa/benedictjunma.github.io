@@ -79,13 +79,6 @@ profiles:
       #<p>Contact:</p>
       #<p>jinyiyan@hkust-gz.com</p>
   - align: left
-    image: lisuming.jpg
-    content: about_lisuming.md
-    image_circular: false # crops the image to make it circular
-    #more_info: >
-      #<p>Contact:</p>
-      #<p>To be updated</p>
-  - align: left
     image: huangyin.jpg
     content: about_huangyin.md
     image_circular: false # crops the image to make it circular
@@ -116,6 +109,13 @@ profiles:
   - align: left
     image: gusongtao.jpg
     content: about_gusongtao.md
+    image_circular: false # crops the image to make it circular
+    #more_info: >
+      #<p>Contact:</p>
+      #<p>To be updated</p>
+  - align: left
+    image: lisuming.jpg
+    content: about_lisuming.md
     image_circular: false # crops the image to make it circular
     #more_info: >
       #<p>Contact:</p>
