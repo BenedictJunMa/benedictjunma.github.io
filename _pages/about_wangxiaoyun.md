@@ -1,7 +1,7 @@
 Ms. Xiaoyun WANG
 ---
 
-Research Assistant
+Research Assistant (Apr - Jul, 2026)
 
 Xiaoyun Wang joined this lab as a Research Assistant in April 2026. She received her Master's degree in Transportation Planning and Management from Beijing Jiaotong University. Her research interests include human-AI collaboration and smart parking operations.
 
