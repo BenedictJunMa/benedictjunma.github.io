@@ -6,4 +6,4 @@ Luiz Fernando Ramos Lemos received his B.Sc. and M.Sc. degrees in Applied and Co
 
 Representative publication:
 
-<u>Lemos, L. F. R.<u> et al. (2026). Comparative Study of Cosine-Histogram Association and Deep Learning Methods for Leather Defect Detection. *IEEE Access*. [DOI](https://doi.org/10.1109/ACCESS.2026.3672385)
+Lemos, L. F. R. et al. (2026). Comparative Study of Cosine-Histogram Association and Deep Learning Methods for Leather Defect Detection. *IEEE Access*. [DOI](https://doi.org/10.1109/ACCESS.2026.3672385)
