@@ -6,4 +6,4 @@ Borui Gao joined the team in January 2026. He obtained his Bachelor's degree fro
 
 Representative publication:
 
-<u>Gao, B.</u>, Li, L. L., He, Z., Wang, B., Jiang, Z., & Ma, B. J. (Under Review). Delineating Maritime Clusters: A Dynamic Density-Based Approach to Spatial Boundaries and Industry Structure. *Transportation Research Part A*.
+<u>Gao, B.</u>, Li, L. L., He, Z., Wang, B., Jiang, Z., & Ma, B. J. (Under Review). Delineating Spatial Boundaries, Evolution, and Determinants of Maritime Clusters: Evidence from China. *Journal of Transport Geography*.
