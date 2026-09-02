@@ -6,4 +6,4 @@ Luiz Fernando Ramos Lemos is a Visiting Research Student at the iLSCA Lab, HKUST
 
 Representative publication:
 
-<u>Lemos, L. F. R.<u>, Soares, A. C., Cesário, M. C., Francisco, M. B., & Montevechi, J. A. B. (2026). Comparative Study of Cosine-Histogram Association and Deep Learning Methods for Leather Defect Detection. *IEEE Access.* [DOI](https://doi.org/10.1109/ACCESS.2026.3672385)
+Lemos, L. F. R., Soares, A. C., Cesário, M. C., Francisco, M. B., & Montevechi, J. A. B. (2026). Comparative Study of Cosine-Histogram Association and Deep Learning Methods for Leather Defect Detection. *IEEE Access.* [DOI](https://doi.org/10.1109/ACCESS.2026.3672385)
