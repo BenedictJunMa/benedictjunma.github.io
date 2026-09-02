@@ -63,7 +63,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Contact:</p>
-      <p>yinzecheng@cuhk.edu.cn</p>
+      <p>zyin144@connect.hkust-gz.edu.cn</p>
+  - align: left
+    image: xujian.jpg
+    content: about_xujian.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Contact:</p>
+      <p>To be updated</p>
   - align: left
     image: yanjinyi.jpg
     content: about_yanjinyi.md
@@ -116,6 +123,13 @@ profiles:
   - align: left
     image: xuziqian.jpg
     content: about_xuziqian.md
+    image_circular: false # crops the image to make it circular
+    #more_info: >
+      #<p>Contact:</p>
+      #<p>To be updated</p>
+  - align: left
+    image: luiz.jpg
+    content: about_luiz.md
     image_circular: false # crops the image to make it circular
     #more_info: >
       #<p>Contact:</p>
