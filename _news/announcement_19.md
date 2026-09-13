@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:tada: The collaborative paper by Cornell and HKUST(GZ), "Leveraging Digital Twins for Urban Health and Sustainability: A Case Study for Urban Air Quality Management in Manhattan", has been published in Environmental Modelling. 
+:tada: The collaborative paper by Cornell and HKUST(GZ), "Leveraging Digital Twins for Urban Health and Sustainability: A Case Study for Urban Air Quality Management in Manhattan", has been published in Environmental Modelling &amp; Software. 
 
 
 
