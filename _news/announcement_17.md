@@ -5,10 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:tada: The collaborative paper by MIT and HKUST(GZ), "Supply chain mapping through retrieval-augmented generation: applications to the electronics industry", has been published online in JORS. 
-
-
-
+:tada: The collaborative paper by MIT and HKUST(GZ), "[Supply chain mapping through retrieval-augmented generation: applications to the electronics industry](https://doi.org/10.1080/01605682.2025.2608868)", has been published online in JORS. 
 
 
 
