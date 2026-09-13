@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-:tada: CHEN Weiying and GU Songtao (research assistants at iLSCA) began their master's studies at Sun Yat-sen University and Tongji University, respectively. Congrats to them :tada:
+:tada: CHEN Weiying and GU Songtao (research assistants at iLSCA) began their master's studies at Sun Yat-sen University and Tongji University, respectively. Congrats to them.
 
 
 
