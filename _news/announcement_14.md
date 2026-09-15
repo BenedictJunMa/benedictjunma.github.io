@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Songtao and Man, they presented their recent research at IEEE CASE 2026.
+🎤 Congrats to Songtao and Man, they presented their recent research at IEEE CASE 2026.
