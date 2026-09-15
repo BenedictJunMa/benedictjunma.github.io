@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Man, Xin-Can, and Zhiwei. They presented their research at POMS-HK 2026. 
+🎤 Congrats to Man, Xin-Can, and Zhiwei. They presented their research at POMS-HK 2026. 
