@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-🏫 :tada: :tada: Today, two of my students (WANG Man & GAO Borui) start their doctoral careers officially (26 Spring)
+🏫 Today, two of my students (WANG Man & GAO Borui) start their doctoral careers officially (26 Spring) :tada: :tada: 
 
 
 
