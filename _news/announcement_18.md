@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-We are running a Special Collection on "Modeling, Control, and Operations Management for Robotic Warehousing Systems" at the IJARS journal. Click [Here](https://journals.sagepub.com/topic/collections-arx/002603/arxa) for more information.
+🗣️ We are running a Special Collection on "Modeling, Control, and Operations Management for Robotic Warehousing Systems" at the IJARS journal. Click [Here](https://journals.sagepub.com/topic/collections-arx/002603/arxa) for more information.
 
 
 
