@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Benedict. He chaired the session and presented the work on "Hybrid Robotic Bin-Picking Systems" at INFORMS TSL 2026.
+🎤 Congrats to Benedict. He chaired the session and presented the work on "Hybrid Robotic Bin-Picking Systems" at INFORMS TSL 2026.
