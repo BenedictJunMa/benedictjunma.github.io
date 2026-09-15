@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Borui, he presented his work at ICSS 2026.
+🎤 Congrats to Borui, he presented his work at ICSS 2026.
 
 
 
