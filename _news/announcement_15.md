@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-🏛️ :tada: :tada: Five of my students (Xin-Can, Mia, Frederick, Jian, and Zecheng) officially started their doctoral studies at HKUST(GZ) (26 Fall).
+🏛️ Five of my students (Xin-Can, Mia, Frederick, Jian, and Zecheng) officially started their doctoral studies at HKUST(GZ) (26 Fall). :tada: :tada: 
 
 
 
