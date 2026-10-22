@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Year 2026-2029
-description: AI-driven automation and robotics in logistics and fulfillment systems
+description: AI-Empowered Automation and Robotics in Logistics and Fulfillment Systems
 img: assets/img/AI_auto.png
 importance: 1
 category: work
