@@ -1,0 +1,25 @@
+---
+layout: page
+title: Year 2025-2028
+description: Data-driven Optimization for Human-Robot Collaborative Order Picking Systems
+img: assets/img/HRCOP.jpeg
+importance: 1
+category: work
+---
+
+Supported by the Guangdong Basic and Applied Basic Research Foundation (No. 2025A1515110120).
+
+With the rapid growth of e-commerce and increasing demand for efficient order fulfillment, 
+human-robot collaborative order picking systems have emerged as a promising solution for modern warehouses. 
+By combining human flexibility and decision-making capabilities with robotic efficiency and automation, 
+these systems offer significant potential to improve operational productivity and responsiveness. 
+However, effectively coordinating human workers and robots remains challenging due to dynamic order arrivals, 
+heterogeneous task requirements, varying human performance, and resource constraints.
+
+This project aims to develop a data-driven optimization framework for human-robot collaborative order picking systems. 
+By integrating historical operational data, machine learning, and optimization techniques, the project will investigate intelligent task allocation, 
+human-robot coordination, and real-time scheduling strategies. Particular attention will be given to capturing human behavioral characteristics, 
+predicting operational uncertainties, and developing adaptive decision-making approaches. The expected outcomes include improved picking efficiency, 
+reduced operational costs, balanced human workloads, and enhanced system adaptability, providing both theoretical insights and 
+practical decision-support tools for next-generation intelligent warehousing systems.
+
