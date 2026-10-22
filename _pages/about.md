@@ -9,7 +9,7 @@ profile:
   image: DSCF3908.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office E2-603</p>
+    <p>Office Rm 603, E2 Building</p>
     <p>No.1 Du Xue Rd, Nansha</p>
     <p>Guangzhou City, </p>
     <p>China</p>
