@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office E2-603</p>
-    <p>No.1 Du Xue Rd</p>
-    <p>Guangzhou</p>
+    <p>No.1 Du Xue Rd, Nansha</p>
+    <p>Guangzhou City, </p>
     <p>China</p>
     <p>junm AT hkust-gz.edu.cn</p>
 
